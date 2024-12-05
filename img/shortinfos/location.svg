@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon">
+    <defs>
+        <clipPath id="halfcircle">
+            <path fill="white" d="M 0 0 h 24 v 15 l -12 -6 l -12 6" />
+        </clipPath>
+    </defs>
+    <g stroke="black" stroke-width="2" fill="none">
+        <path d="M 5.55 11 l 6.45 11 l 6.45 -11" />
+        <circle clip-path="url(#halfcircle)" cx="12" cy="8" r="7" />
+        <circle cx="12" cy="8" r=".5" />
+    </g>
+</svg>

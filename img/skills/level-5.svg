@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114 18">
+    <circle id="c" fill="rgb(89, 131, 175)" cx="9" cy="9" r="9" />
+    <use href="#c" x="24" />
+    <use href="#c" x="48" />
+    <use href="#c" x="72" />
+    <use href="#c" x="96" />
+</svg>
