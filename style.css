@@ -166,6 +166,7 @@ h2 {
     background-size: 1.25rem 1.25rem;
     font-size: 1rem;
     font-weight: normal;
+    page-break-before: always;
 }
 
 h2::after {
