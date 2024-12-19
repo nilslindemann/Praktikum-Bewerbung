@@ -307,7 +307,7 @@ dl.skills dd.lev1 {
 
     .teaserheader:before {
         width: 2.25rem;
-        background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M 0 5 l 5 0 l 0 7 l 4 1 l -9 0 l 2 -4" fill="rgb(83, 126, 162)"/><path d="M 5 12 l 4 0 l 0 1" fill="rgb(44, 77, 100)"/></svg>');
+        background-image: url('img/teaserheader/left-border.svg');
     }
 
     .shortinfo {
